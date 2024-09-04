@@ -23,9 +23,12 @@ If you find this repo or the ideas presented in our paper useful for your resear
 @ARTICLE{10637680,
   author={Feng, Zeyu and Luan, Hao and Goyal, Pranav and Soh, Harold},
   journal={IEEE Robotics and Automation Letters}, 
-  title={LTLDoG: Satisfying Temporally-Extended Symbolic Constraints for Safe Diffusion-Based Planning}, 
-  year={2024}
-}
+  title={{LTLDoG}: Satisfying Temporally-Extended Symbolic Constraints for Safe Diffusion-Based Planning}, 
+  year={2024},
+  volume={9},
+  number={10},
+  pages={8571-8578},
+  doi={10.1109/LRA.2024.3443501}}
 ```
 
 
